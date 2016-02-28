@@ -14,7 +14,7 @@ Big picture?
 
     + We (individuals) have zero practical control over information stored on Facebook, Google, etc servers
     + Ubiquitous encryption is the only way to create personal agency over digital information
-    + Muterra, Inc has developed an encrypted social protocol called Muse
+    + Muterra, Inc has developed an encrypted social protocol called Golix
     + Ethyr (encrypted email) is built on that and designed to be easier than normal email
 
 Why do I personally care?
@@ -30,7 +30,7 @@ How did this start?
 
 What does it actually do, and how does it help the big picture?
 
-    + When you create any data with the Muse protocol, it goes into an encrypted container, which is then uploaded to a third-party server
+    + When you create any data with the Golix protocol, it goes into an encrypted container, which is then uploaded to a third-party server
     + Until/unless you share it, only you have access to the data inside (the server does not/cannot read it)
     + The server keeps the container if and only if someone tells it to
     + When you share it with someone, they may also tell the the server not to delete the container, but you know who they are
